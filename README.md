@@ -1,6 +1,5 @@
 # Zippy the Unzipper
 ===
-
 *Created by Nav Appaiya in June 2016*
 
 Zippy unzipper is a small packaged application for unpacking larger zip files.
