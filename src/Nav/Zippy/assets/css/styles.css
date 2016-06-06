@@ -1,0 +1,32 @@
+.btn-zippy {
+    background-color: #359B9B;
+    border-color: #359B9B;
+    color: #fff;
+}
+.btn-zippy:hover,
+.btn-zippy:focus,
+.btn-zippy:active,
+.btn-zippy.active {
+    background-color: #2f8888;
+    border-color: #287575;
+}
+.btn-zippy.disabled:hover,
+.btn-zippy.disabled:focus,
+.btn-zippy.disabled:active,
+.btn-zippy.disabled.active,
+.btn-zippy[disabled]:hover,
+.btn-zippy[disabled]:focus,
+.btn-zippy[disabled]:active,
+.btn-zippy[disabled].active,
+fieldset[disabled] .btn-zippy:hover,
+fieldset[disabled] .btn-zippy:focus,
+fieldset[disabled] .btn-zippy:active,
+fieldset[disabled] .btn-zippy.active {
+    background-color: #359B9B;
+    border-color: #359B9B;
+}
+
+
+.dropdown-menu {
+    float:right;
+}
