@@ -1,8 +1,8 @@
 # Zippy the Unzipper
-===
 *Created by Nav Appaiya in June 2016*
+===
 
-Zippy unzipper is a small packaged application for unpacking larger zip files.
+Zippy unzipper is a small packaged application for unpacking larger zip files. Project uses a zip class written by Anthon Pang.
 
 ### Installation with ssh / terminal
 - Git clone this project to your hosting or machine into a public accessible folder
